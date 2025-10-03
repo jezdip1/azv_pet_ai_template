@@ -175,7 +175,7 @@ MMI_to_MNIGMS + NCC_to_MNIGMS + Sex:cAge + lDose:lTime + (1|UNIS)
   "is_outlier_95": false,
   "is_outlier_99": false
 }
-
+---
 ## Stability across regions
 
 Based on `summary.json`:
